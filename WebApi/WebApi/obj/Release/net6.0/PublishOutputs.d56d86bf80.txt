@@ -1,0 +1,11 @@
+D:\Pablo\WebApi\WebApi\WebApi\obj\Release\net6.0\PubTmp\Out\WebApi.exe
+D:\Pablo\WebApi\WebApi\WebApi\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+D:\Pablo\WebApi\WebApi\WebApi\obj\Release\net6.0\PubTmp\Out\appsettings.json
+D:\Pablo\WebApi\WebApi\WebApi\obj\Release\net6.0\PubTmp\Out\WebApi.dll
+D:\Pablo\WebApi\WebApi\WebApi\obj\Release\net6.0\PubTmp\Out\WebApi.deps.json
+D:\Pablo\WebApi\WebApi\WebApi\obj\Release\net6.0\PubTmp\Out\WebApi.runtimeconfig.json
+D:\Pablo\WebApi\WebApi\WebApi\obj\Release\net6.0\PubTmp\Out\WebApi.pdb
+D:\Pablo\WebApi\WebApi\WebApi\obj\Release\net6.0\PubTmp\Out\Microsoft.OpenApi.dll
+D:\Pablo\WebApi\WebApi\WebApi\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+D:\Pablo\WebApi\WebApi\WebApi\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Pablo\WebApi\WebApi\WebApi\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
